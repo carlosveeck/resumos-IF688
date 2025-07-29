@@ -6,3 +6,18 @@ Os resumos foram elaborados com base nos slides do professor **Leopoldo Teixeira
 O objetivo é reunir os principais conceitos da disciplina de forma clara e acessível.
 
 > ⚠️ **Aviso:** Os resumos estão sujeitos a correções. Use com senso crítico.
+
+## 📂 Conteúdo por pasta
+
+### 📁 Análise Léxica
+Resumos das aulas de análise léxica:
+- Introdução
+- Tokens
+- Expressões Regulares
+
+### 📁 Análise Sintática
+Resumos das aulas de análise sintática:
+- Introdução e modelo top-down
+- Conjuntos **FIRST** e **FOLLOW**
+- Gramáticas **LL(1)**  
+*(em desenvolvimento – WIP)*
