@@ -20,4 +20,4 @@ Resumos das aulas de análise sintática:
 - Introdução e modelo top-down
 - Conjuntos **FIRST** e **FOLLOW**
 - Gramáticas **LL(1)**  
-*(em desenvolvimento – WIP)*
+- *restante em desenvolvimento – WIP*
