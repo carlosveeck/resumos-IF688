@@ -9,13 +9,13 @@ O objetivo é reunir os principais conceitos da disciplina de forma clara e aces
 
 ## 📂 Conteúdo por pasta
 
-### 📁 Análise Léxica
+### 📁 [Análise Léxica](./Análise Léxica/)
 Resumos das aulas de análise léxica:
 - Introdução
 - Tokens
 - Expressões Regulares
 
-### 📁 Análise Sintática
+### 📁 [Análise Sintática](./Análise Sintática/)
 Resumos das aulas de análise sintática:
 - Introdução e modelo top-down
 - Conjuntos **FIRST** e **FOLLOW**
