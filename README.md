@@ -7,17 +7,19 @@ O objetivo é reunir os principais conceitos da disciplina de forma clara e aces
 
 > ⚠️ **Aviso:** Os resumos estão sujeitos a correções. Use com senso crítico.
 
+---
+
 ## 📂 Conteúdo por pasta
 
-### 📁 [Análise Léxica](./Análise Léxica/)
+### 📁 [Análise Léxica](./An%C3%A1lise%20L%C3%A9xica/)
 Resumos das aulas de análise léxica:
 - Introdução
 - Tokens
 - Expressões Regulares
 
-### 📁 [Análise Sintática](./Análise Sintática/)
+### 📁 [Análise Sintática](./An%C3%A1lise%20Sint%C3%A1tica/)
 Resumos das aulas de análise sintática:
 - Introdução e modelo top-down
 - Conjuntos **FIRST** e **FOLLOW**
 - Gramáticas **LL(1)**  
-- *restante em desenvolvimento – WIP*
+*(em desenvolvimento – WIP)*
