@@ -7,8 +7,6 @@ O objetivo é reunir os principais conceitos da disciplina de forma clara e aces
 
 > ⚠️ **Aviso:** Os resumos estão sujeitos a correções. Use com senso crítico.
 
----
-
 ## 📂 Conteúdo por pasta
 
 ### 📁 [Análise Léxica](./An%C3%A1lise%20L%C3%A9xica/)
